@@ -1,7 +1,7 @@
 ---
 title: About others
 author: Tao He
-date: 2022-02-04
+date: 
 category: Jekyll
 layout: post
 ---
