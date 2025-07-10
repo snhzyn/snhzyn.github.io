@@ -6,7 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-## 📬 Contact  
-
 - 📧 Email: [sonhojin1202@gmail.com](mailto:sonhojin1202@gmail.com)  
 - 💻 GitHub: [snhzyn](https://github.com/snhzyn)
