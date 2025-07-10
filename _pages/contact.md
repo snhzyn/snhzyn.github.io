@@ -1,9 +1,12 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
+author: snhzyn
+date: 2025-07-10
 category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+## 📬 Contact  
+
+- 📧 Email: [sonhojin1202@gmail.com](mailto:sonhojin1202@gmail.com)  
+- 💻 GitHub: [snhzyn](https://github.com/snhzyn)
