@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: dev.snhzyn # the main title
 
-tagline: Weekly Dev notes - Data Scientist # it will display as the subtitle
+tagline: Dev notes # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Dev notes, data insights
+  Notes on data science, Python, and development — 개발 & 데이터 노트
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +29,7 @@ github:
   username: snhzyn # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: snhzyn # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,11 @@ social:
   email: sonhojin1202@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    - https://twitter.com/snhzyn # change to your Twitter homepage
     - https://github.com/snhzyn # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/hojin-son-140452280
+    - https://www.linkedin.com/in/hojin-son-140452280
 
 # Site Verification Settings
 webmaster_verifications:
@@ -61,7 +61,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: snhzyn.goatcounter.com
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -75,7 +75,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter
 
 # Prefer color scheme setting.
 #
