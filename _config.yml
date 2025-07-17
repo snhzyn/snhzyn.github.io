@@ -120,9 +120,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: snhzyn/snhzyn.github.io
-    repo_id: R_kgDOPJfaSQ
+    repo_id: R_kgDOPNX_vw
     category: Announcements
-    category_id: DIC_kwDOPJfaSc4Cs_H6
+    category_id: DIC_kwDOPNX_v84CtFNi
     mapping: pathname
     strict: 0
     input_position: bottom
